@@ -7,5 +7,5 @@ I am a Fullstack Developer student, eager to learn and grow. As a beginner, I am
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](linkedin.com/in/my-zhen-hau-54220635b) 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/my-zhen-hau-54220635b) 
 
