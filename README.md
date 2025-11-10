@@ -5,7 +5,7 @@ My name is My Zhen and I am making my journey from preschool teacher to full-sta
 ## Motto
 🚀 "Everyone makes their own journey, even though the road may not be straight, we are all doing our best. Don't forget to look back on what you've accomplished and be proud of it."
 
--🌱 I’m currently learning React.
+🌱 I’m currently learning React.
 
 **📚 what I have learned in school**
 - **Frontend:** HTML, CSS, Javascript
