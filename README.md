@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is My Zhen and I am making my journey from preschool teacher to full-stack developer. As a student and beginner, I am excited to learn new things and expand my skills. 
+My name is My Zhen and I am making my journey from preschool teacher to full-stack developer. As a student and beginner, I am excited to learn new things and expand my skills.  
+
+## Motto
+🚀_"Everyone makes their own journey, even though the road may not be straight, we are all doing our best. Don't forget to look back on what you've accomplished and be proud of it."_
+
 
 - 🌱 I’m currently learning React.
 **📚 what I have learned in school**
@@ -12,7 +16,7 @@ My name is My Zhen and I am making my journey from preschool teacher to full-sta
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/my-zhen-hau) 
 
 
-## 🛠️
+## 🛠️ Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
@@ -20,6 +24,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/my-zhen-h
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="30" height="30"/>
 </p>
 
 
